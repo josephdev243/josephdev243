@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Joseph Omondi
-
-- I'm currently working on WeatherApp
   
 - 🌱 I’m currently learning Flutter, Data Science
    
